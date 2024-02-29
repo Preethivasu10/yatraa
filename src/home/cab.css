@@ -1,0 +1,78 @@
+.cab2{
+    position: absolute;
+    top: 100px;
+    right: 150px;
+}
+.cab1{
+    position: absolute;
+    top: 150px;
+    left:  100px;
+
+}
+.cab3{
+    font-size:50px;
+    font-weight: 10px;
+}
+.nav-link1{
+   
+   display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+    color: grey;
+    font-size: 20px;
+    
+}
+.img{
+    position: absolute;
+    top: 1100px;
+}
+.img1{
+    position: absolute;
+    top: 1100px;
+    left: 500px;
+}
+.img5{
+    position: absolute;
+    top: 1100px;
+    left: 950px;
+}
+.img2{
+    position: absolute;
+    top: 1500px;
+    left: 950px;
+}
+.img3{
+    position: absolute;
+    top: 1500px;
+    left: 500px;
+}
+.img4{
+    position: absolute;
+    top: 1500px;
+    left: 50px;
+}
+.div1{
+    color: white;
+    background-color: black;
+        position: absolute;
+        top: 1900px;
+        left: 50px;
+        font-size: small;
+}
+.my-5{
+    position: absolute;
+    top: 870px;
+}
+.acc{
+    position: absolute;
+    top: 2470px;
+    
+    
+}
+.rr{
+    position: absolute;
+    top: 2800px;
+    
+}

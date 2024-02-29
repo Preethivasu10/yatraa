@@ -1,0 +1,113 @@
+/* menu.css */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+    color: grey;
+    font-size: 20px;
+    height: 100px;
+    
+  }
+  
+  .navbar-brand1 {
+    width: 100px;
+    height: 70px; /* Adjust the height as needed */
+  }
+  
+  nav {
+    display: flex;
+    margin: 10px;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    color: grey;
+    text-decoration: none;
+    transition: color 0.3s ease; /* Add transition for smooth color change */
+  }
+  
+  nav a:hover {
+    color: red; /* Change the color to red on hover */
+  }
+  
+  .more-dropdown {
+    position: relative;
+  }
+  
+  .more-dropdown button {
+    background: none;
+    border: none;
+    color: grey;
+    cursor: pointer;
+    transition: color 0.3s ease; /* Add transition for smooth color change */
+  }
+  
+  .more-dropdown:hover button {
+    color: red; /* Change the color to red on hover */
+  }
+  
+  .more-dropdown ul {
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background-color: grey;
+    list-style: none;
+    padding: 10px;
+    display: none;
+  }
+  
+  .more-dropdown:hover ul {
+    display: block;
+  }
+  
+  .more-dropdown ul li {
+    margin: 5px 0;
+  }
+  
+  .more-dropdown ul li a {
+    color: grey;
+    text-decoration: none;
+    transition: color 0.3s ease; /* Add transition for smooth color change */
+  }
+  
+  .more-dropdown ul li a:hover {
+    color: red; /* Change the color to red on hover */
+  }
+  
+  .account-support {
+    display: flex;
+  }
+  
+  .account-support a{
+    margin: 0 10px;
+    color: grey;
+    text-decoration: none;
+  }
+  
+  /* Additional styles for icon and text alignment */
+  nav a .icon-text,
+  .more-dropdown button .icon-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: grey;
+    text-decoration: none;
+  }
+  
+  nav a:hover .icon-text span,
+  .more-dropdown button:hover .icon-text span {
+    color: red; /* Change the color to red on hover */
+  }
+  .maindiv{
+    position: sticky;
+    
+  }
+  .account-support{
+    display: flex;
+    justify-content: space-between;
+    align-items:ce;
+    padding: 10px;
+  }
+  

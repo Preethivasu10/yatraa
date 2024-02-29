@@ -1,0 +1,125 @@
+.image-container{
+    position: absolute;
+   left: 10px;
+   height: 700px;
+   width: 120rem;
+}
+.cardd1{
+    position: absolute;
+    top: 400px;
+    right: 200px;
+}
+.pos{
+    position: absolute;
+    top: 600px;
+   
+
+}
+.pos1{
+    margin: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 650px;
+    width: 600px;
+    left: 700px;
+    background-color: gainsboro;
+}
+.pos2{
+    margin: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 1100px;
+    width: 600px;
+    left: 700px;
+    background-color: gainsboro;
+
+}
+.pos0{
+    position: absolute;
+    top: 600px;
+    left: 690px;
+   
+
+}
+.pos00{
+    position: absolute;
+    top: 1050px;
+    left: 690px;
+   
+
+}
+.pos3{
+    margin: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 1600px;
+    width: 600px;
+    left: 700px;
+    background-color: gainsboro;
+
+}
+.pos4{
+    margin: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 2950px;
+    width: 600px;
+    left: 700px;
+    background-color: gainsboro;
+
+}
+.pos000{
+    position: absolute;
+    top: 1550px;
+    left: 690px;}
+
+    .pos0000{
+        position: absolute;
+        top:  2900px;
+        left: 690px;
+
+        
+    }
+
+    .pos5{
+        margin: 10px;
+    padding: 10px;
+        position: absolute;
+        top: 1500px;
+
+        right: 910px;
+        width: 600px;
+       
+        background-color: gainsboro;
+    
+    }    
+
+    .pos6{
+        margin: 10px;
+    padding: 10px;
+        position: absolute;
+        top: 2100px;
+
+        right: 910px;
+        width: 600px;
+       
+        background-color: gainsboro;
+    
+    }    
+.pos0001{
+    position: absolute;
+        top:  1450px;
+        
+}
+
+.pos0002{
+    position: absolute;
+        top:  2050px;
+        
+}
+.igm7{
+    position: absolute;
+    top:  5100px; 
+    right: 0px; 
+}
+    

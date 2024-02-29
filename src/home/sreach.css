@@ -1,0 +1,61 @@
+.sreach-1{
+    height: 80px;
+    background: linear-gradient(to right, #ca0652, #580243);
+}
+Form.Control {
+    input {
+        border: none;
+        background: linear-gradient(to right, #B19CD9, #4B0082);
+        color: white; /* Adjust text color for better visibility */
+        padding: 8px;
+        width: 100%;
+        box-sizing: border-box; /* Include padding in the total width */
+        outline: none; /* Remove default input focus outline */
+      }
+      
+  }
+  .text-light{
+    border: none;
+    color: white;
+  }
+  
+  .text-light {
+   
+    color: white;
+    box-sizing: border-box;
+  }
+   Form.Label{
+    color: w;
+   }
+  
+
+
+.divgrey{
+  background-color: gainsboro;
+  height: 30px;
+  width: 955px;
+  position: absolute;
+  top: 370px;
+  left: 120px;
+}
+
+  
+
+.postion1{
+  position: absolute;
+  left: 100px;
+  top: 420px;
+}
+.custom-roww{
+  width: 2000px;
+  position: absolute;
+  left: 1050px;
+  top: -150px;
+}
+.divpink{
+  position: absolute;
+  left: 130px;
+  top: 280px;
+  width: 970px;
+  background-color: gray;
+}

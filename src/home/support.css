@@ -1,0 +1,92 @@
+.col1{
+    position: absolute;
+}
+.new8{
+    position: absolute;
+    top: 200px;
+    left:380px;
+    text-align: center;
+    color: white;
+}
+.new9{
+    height: 60px;
+    width: 600px;
+}
+
+
+     
+
+ .container1{
+    font-size: 30px;
+    position: absolute;
+   left: 50px;
+    top: 400px;
+ }
+
+ .spa{
+    position: absolute;
+    left: 200px;
+    top: 190px;
+    background-color: gainsboro;
+ }
+ 
+ small{
+    font-size: medium;
+ }
+ .size{
+    width: 400px;
+    position: absolute;
+    right: 100px;
+    top: 250px;
+ }
+ .size1{
+    width: 400px;
+    position: absolute;
+    right: 100px;
+    top: 300px;
+ }
+ .size2{
+    width: 400px;
+    position: absolute;
+    right: 100px;
+    top:200px;
+ }
+ .size3{
+    width: 400px;
+    position: absolute;
+    right: 100px;
+    top: 350px;
+ }
+ .wen{
+   background-color: grey;
+}
+.forn{
+   font-size: 30px;
+   position: absolute;
+   top: 1250px;
+   left: 200px;
+}
+
+.tabs{
+   position: absolute;
+   top: 1250px;
+   left: 200px;
+}
+.ewn{
+   position: absolute;
+   top: 2000px;
+}
+.FOOTR{
+   position: absolute;
+   top: 2000px;left: 10px;
+}
+.align-items-center {
+   position: absolute;
+   left: 500px;
+}
+.align-items-right{
+   position: absolute;
+   left: 300px;
+}
+
+
