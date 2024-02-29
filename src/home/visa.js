@@ -36,7 +36,7 @@ const VisaPage = () => {
                     
                     <Col md={6}>
                         <div className="image-container">
-                            <img src="https://ns.yatracdn.com/common/images/seo/visa/visa-yatra.jpg" className="img-fluid" alt="First Line Image" />
+                        <img src="https://ns.yatracdn.com/common/images/seo/visa/visa-yatra.jpg" className="img-fluid" alt="First Line" />
                         </div>
                     </Col>
                     <Col md={6}>
